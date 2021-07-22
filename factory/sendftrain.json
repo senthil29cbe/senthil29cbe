@@ -1,0 +1,9 @@
+{
+	"name": "sendftrain",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1e58a3ca-7d64-477c-9f69-a9e8c00fa599",
+		"tenantId": "abc8f461-d974-4c4e-8b86-fa0add48a464"
+	}
+}
